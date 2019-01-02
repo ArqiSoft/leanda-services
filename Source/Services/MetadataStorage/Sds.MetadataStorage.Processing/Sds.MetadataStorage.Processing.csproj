@@ -21,15 +21,14 @@
 
   <ItemGroup>
     <PackageReference Include="Collector.Serilog.Enrichers.Assembly" Version="1.0.1" />
-    <PackageReference Include="MassTransit.SerilogIntegration" Version="4.1.0.1432-develop" />
+    <PackageReference Include="MassTransit.SerilogIntegration" Version="5.1.4" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="2.0.1" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="2.0.0" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="2.0.0" />
     <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="2.0.1" />
-    <PackageReference Include="MongoDB.Driver" Version="2.5.0" />
     <PackageReference Include="PeterKottas.DotNetCore.WindowsService" Version="2.0.5" />
     <PackageReference Include="Sds.Heartbeat" Version="0.11.1" />
-    <PackageReference Include="Sds.MassTransit.RabbitMq" Version="2.1.4-develop" />
+    <PackageReference Include="Sds.MassTransit.RabbitMq" Version="3.0.4" />
     <PackageReference Include="Sds.Osdr.RecordsFile" Version="0.13.0" />
     <PackageReference Include="Sds.Reflection" Version="1.0.3" />
     <PackageReference Include="Sds.Serilog" Version="2.0.1" />
