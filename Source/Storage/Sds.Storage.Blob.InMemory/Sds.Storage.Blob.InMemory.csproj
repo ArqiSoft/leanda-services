@@ -1,12 +1,15 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <TargetFramework>netstandard2.0</TargetFramework>
     <Description>SDS In-Memory Storage Blob Implementation</Description>
     <Company>Science Data Software</Company>
     <Product>Open Science Data Repository</Product>
-    <Copyright>Copyright © 2017 Science Data Software</Copyright>
+    <Copyright></Copyright>
+    <Version>1.0.12</Version>
+    <Authors>Science Data Software</Authors>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>

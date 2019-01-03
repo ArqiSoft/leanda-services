@@ -45,12 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Sds.Download.nuspec" />
-    <None Include="Sds.FileStorage.EntityFramework.nuspec" />
     <None Include="Sds.FileStorage.Core.nuspec">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Sds.Storage.Blob.Core.nuspec" />
-    <None Include="Sds.Storage.Blob.InMemory.nuspec">
       <SubType>Designer</SubType>
     </None>
     <None Include="Sds.Storage.Blob.GridFS.nuspec" />
