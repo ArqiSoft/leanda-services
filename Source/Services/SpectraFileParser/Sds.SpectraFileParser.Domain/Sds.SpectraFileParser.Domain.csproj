@@ -11,10 +11,11 @@
     <Description>SDS spectra file parser domain models</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageReleaseNotes>First release</PackageReleaseNotes>
-    <Copyright>Copyright 2017 (c) Science Data Software. All rights reserved.</Copyright>
+    <Copyright></Copyright>
     <PackageTags>domain spectra parser</PackageTags>
     <Version>0.15.0</Version>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>    
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>    
   </PropertyGroup>
 
   <ItemGroup>

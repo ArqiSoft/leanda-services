@@ -36,6 +36,9 @@
     <Reference Include="bingo-dotnet, Version=1.1.5968.32613, Culture=neutral, PublicKeyToken=6a31cb7055c16a21, processorArchitecture=MSIL">
       <HintPath>..\packages\Indigo.Net.1.2.3\lib\net20\bingo-dotnet.dll</HintPath>
     </Reference>
+    <Reference Include="DnsClient, Version=1.0.7.0, Culture=neutral, PublicKeyToken=4574bb5573c51424, processorArchitecture=MSIL">
+      <HintPath>..\packages\DnsClient.1.0.7\lib\net45\DnsClient.dll</HintPath>
+    </Reference>
     <Reference Include="indigo-dotnet, Version=1.1.5968.32611, Culture=neutral, PublicKeyToken=ca8e3320bc4499e0, processorArchitecture=MSIL">
       <HintPath>..\packages\Indigo.Net.1.2.3\lib\net20\indigo-dotnet.dll</HintPath>
     </Reference>
@@ -45,38 +48,41 @@
     <Reference Include="indigo-renderer-dotnet, Version=1.1.5968.32612, Culture=neutral, PublicKeyToken=09f0421d14bc0b92, processorArchitecture=MSIL">
       <HintPath>..\packages\Indigo.Net.1.2.3\lib\net20\indigo-renderer-dotnet.dll</HintPath>
     </Reference>
-    <Reference Include="MongoDB.Bson, Version=2.4.4.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\MongoDB.Bson.2.4.4\lib\net45\MongoDB.Bson.dll</HintPath>
+    <Reference Include="MongoDB.Bson, Version=2.7.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MongoDB.Bson.2.7.2\lib\net45\MongoDB.Bson.dll</HintPath>
     </Reference>
-    <Reference Include="MongoDB.Driver, Version=2.4.4.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\MongoDB.Driver.2.4.4\lib\net45\MongoDB.Driver.dll</HintPath>
+    <Reference Include="MongoDB.Driver, Version=2.7.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MongoDB.Driver.2.7.2\lib\net45\MongoDB.Driver.dll</HintPath>
     </Reference>
-    <Reference Include="MongoDB.Driver.Core, Version=2.4.4.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\MongoDB.Driver.Core.2.4.4\lib\net45\MongoDB.Driver.Core.dll</HintPath>
+    <Reference Include="MongoDB.Driver.Core, Version=2.7.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MongoDB.Driver.Core.2.7.2\lib\net45\MongoDB.Driver.Core.dll</HintPath>
     </Reference>
-    <Reference Include="MongoDB.Driver.GridFS, Version=2.4.4.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\MongoDB.Driver.GridFS.2.4.4\lib\net45\MongoDB.Driver.GridFS.dll</HintPath>
+    <Reference Include="MongoDB.Driver.GridFS, Version=2.7.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MongoDB.Driver.GridFS.2.7.2\lib\net45\MongoDB.Driver.GridFS.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.10.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
+    <Reference Include="netstandard" />
     <Reference Include="Sds.CdxParser, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Sds.CdxParser.1.0.6\lib\net471\Sds.CdxParser.dll</HintPath>
+      <HintPath>..\packages\Sds.CdxParser.1.0.7\lib\net471\Sds.CdxParser.dll</HintPath>
     </Reference>
-    <Reference Include="Sds.FileParser.Domain, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Sds.FileParser.Domain, Version=1.0.1.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Sds.FileParser.Domain.1.0.1\lib\netstandard2.0\Sds.FileParser.Domain.dll</HintPath>
     </Reference>
     <Reference Include="Sds.SdfParser, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Sds.SdfParser.1.0.9\lib\net471\Sds.SdfParser.dll</HintPath>
     </Reference>
-    <Reference Include="Sds.Storage.Blob.Core, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Sds.Storage.Blob.Core, Version=0.2.3.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Sds.Storage.Blob.Core.0.2.3\lib\netstandard2.0\Sds.Storage.Blob.Core.dll</HintPath>
     </Reference>
-    <Reference Include="Sds.Storage.Blob.GridFS, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="Sds.Storage.Blob.GridFS, Version=0.2.3.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Sds.Storage.Blob.GridFS.0.2.3\lib\netstandard2.0\Sds.Storage.Blob.GridFS.dll</HintPath>
     </Reference>
-    <Reference Include="netstandard" />
     <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.3.0\lib\netstandard1.1\System.Buffers.dll</HintPath>
+    </Reference>
     <Reference Include="System.ComponentModel.Composition" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />

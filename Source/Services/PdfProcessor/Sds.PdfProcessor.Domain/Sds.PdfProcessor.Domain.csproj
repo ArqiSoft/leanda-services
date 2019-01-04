@@ -6,7 +6,9 @@
     <RootNamespace>Sds.PdfProcessor.Domain</RootNamespace>
     <Company>Science Data Software</Company>
     <Product>Open Science Data Repository</Product>
-    <Copyright>Copyright © 2017 Science Data Software</Copyright>
+    <Copyright></Copyright>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>

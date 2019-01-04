@@ -8,13 +8,14 @@
     <Authors>Science Data Software</Authors>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageReleaseNotes>First release</PackageReleaseNotes>
-    <Copyright>Copyright 2017 (c) Science Data Software. All rights reserved.</Copyright>
+    <Copyright></Copyright>
     <PackageTags>domain parser</PackageTags>    
     <Description>SDS chemical file parser domain models</Description>
     <Company>Science Data Software</Company>
     <Product>Open Science Data Repository</Product>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Version>0.17.0</Version>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
    
   </PropertyGroup>
 

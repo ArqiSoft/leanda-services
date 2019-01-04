@@ -7,10 +7,11 @@
     <Description>Chemical export processing domain models</Description>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <PackageReleaseNotes>First release</PackageReleaseNotes>
-    <Copyright>Copyright 2017 (c) Science Data Software. All rights reserved.</Copyright>
+    <Copyright></Copyright>
     <PackageTags>domain export</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Version>0.14.0-develop</Version>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
 
   </PropertyGroup>
 

@@ -4,7 +4,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Company>Science Data Software</Company>
     <Product>Open Science Data Repository</Product>
-    <Copyright>Copyright © 2017 Science Data Software</Copyright>
+    <Copyright></Copyright>
     <PackageId>Sds.ChemicalProperties.Domain</PackageId>
     <Authors>Science Data Software</Authors>
     <Description>Chemical properties domain models</Description>
@@ -13,7 +13,8 @@
     <PackageTags>domain properties</PackageTags>    
     <Description>SDS chemical properties domain models</Description>    
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>    
-    <Version>0.15.0</Version>
+    <Version>0.15.0</Version>    
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
   </PropertyGroup>
 
   <ItemGroup>
