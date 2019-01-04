@@ -7,7 +7,7 @@ WORKDIR /build
 
 COPY . .
 
-RUN dotnet restore --configfile /build/Nuget.config Sds.Indexing/Sds.Indexing.csproj
+RUN dotnet restore --configfile /build/NuGet.Config Sds.Indexing/Sds.Indexing.csproj
 
 RUN dotnet publish Sds.Indexing/Sds.Indexing.csproj -r $RID -o /dist
 
